@@ -4,7 +4,7 @@ This repository and website document all analyses, summaries, tables, and figure
 **Data Availability**
 Available scripts are ordered according to the research/manuscript trajectory.
 
-**Script 1 relates to gas exchange data, averaging readings, merging with the field map, and validating data quality and structure**
+**Script 1.1 and 1.2 are related to gas exchange data, averaging readings, merging with the field map, and validating data quality and structure in 2023 and 2024, respectivly**
 1. averaging_merging_validation.R performs the following:
   Averages the raw data from 4 measurements per plot to 1 measurement per plot.
   Merges the averaged data with the field map data to combine it with hybrid names, replications, and field locations.
